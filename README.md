@@ -16,16 +16,15 @@ I am a dude who likes both Frontend & Backend. I love tech stuff in general, and
 ### Bio
 
 
-- 💣 I’m currently working at [@GemdatAG](https://www.gemdat.ch/)
-- 🐯 I’m currently studying at [@RIT](https://www.croatia.rit.edu/)
-- 🔭 I’m currently working on nx-cli which is an app that helps you manage [Nx Workspaces](https://nx.dev/)
+- 💣 I’m currently working [@GemdatAG](https://www.gemdat.ch/).
+- 🐯 I’m currently studying [@RIT](https://www.croatia.rit.edu/).
+- 🔭 I’m currently working on nx-cli which is an app that helps you manage [Nx Workspaces](https://nx.dev/).
 - 🌱 I’m currently learning Flutter, improving DB knowledge and soon to start with learning German.
 - 👯 I’m looking to collaborate on cool projects.
 - 🤔 I’m looking for help with becoming a millionaire.
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
 - 📫 How to reach me: [Personal Website](https://fcurkovicdev.eu/), or check on the top for more.
-- 😄 Pronouns: Wizard 
-- ⚡ Fun fact: Some turtles can breathe through their "rear end"
+- ⚡ Fun fact: Some turtles can breathe through their "rear end".
 
 ### Technologies I like to tinker with
 
@@ -36,7 +35,7 @@ I am a dude who likes both Frontend & Backend. I love tech stuff in general, and
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Fav OS-es
+### Fav distros
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
