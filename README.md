@@ -43,5 +43,6 @@ I am a dude who likes both Frontend & Backend. I love tech stuff in general, and
 
 ### Github stats
 
-![Filips's github stats](https://github-readme-stats.vercel.app/api?username=curkovicf&count_private=true&theme=default&hide=contribs,prs)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=curkovicf&theme=default)](https://github.com/curkovicf/github-readme-stats)
+
 
