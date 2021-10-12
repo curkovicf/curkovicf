@@ -20,9 +20,6 @@ I am a dude who likes both Frontend & Backend. I love tech stuff in general, and
 - 🐯 I’m currently studying [@RIT](https://www.croatia.rit.edu/).
 - 🔭 I’m currently working on nx-cli which is an app that helps you manage [Nx Workspaces](https://nx.dev/).
 - 🌱 I’m currently learning Flutter, improving DB knowledge and soon to start with learning German.
-- 👯 I’m looking to collaborate on cool projects.
-- 🤔 I’m looking for help with becoming a millionaire.
-- 💬 Ask me about anything.
 - 📫 How to reach me: [Personal Website](https://fcurkovicdev.eu/), or check on the top for more.
 - ⚡ Fun fact: Some turtles can breathe through their "rear end".
 
