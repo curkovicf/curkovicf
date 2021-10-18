@@ -19,7 +19,6 @@ I am a dude who likes both Frontend & Backend. I love tech stuff in general, and
 - 💣 I’m currently working [@GemdatAG](https://www.gemdat.ch/).
 - 🐯 I’m currently studying [@RIT](https://www.croatia.rit.edu/).
 - 🔭 I’m currently working on nx-cli which is an app that helps you manage [Nx Workspaces](https://nx.dev/).
-- 📫 How to reach me: [Personal Website](https://fcurkovicdev.eu/), or check on the top for more.
 - ⚡ Fun fact: Some turtles can breathe through their "rear end".
 
 ### Technologies I like to tinker with
