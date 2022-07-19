@@ -1,13 +1,6 @@
 ## Hello dudes & dudettes of internet <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-### Bio
-
-
-- 💣 I’m currently working [@GemdatAG](https://www.gemdat.ch/).
-- 🐯 I’m currently studying [@RIT](https://www.croatia.rit.edu/).
-- 🔭 I’m currently working on nx-cli which is an app that helps you manage [Nx Workspaces](https://nx.dev/).
-
 [![Portfolio](https://img.shields.io/badge/-fcurkovicdev.eu-c0392b?style=flat&labelColor=c0392b&logo=firefox&logoColor=white)](https://fcurkovicdev.eu/)
 [![Linkedin Badge](https://img.shields.io/badge/-Filip-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-%C4%87urkovi%C4%87-4471b4202/) 
 [![Mail Badge](https://img.shields.io/badge/-@filip.curkovic-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/filip.curkovic/) 
